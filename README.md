@@ -10,3 +10,4 @@ In honesty I've learned HTML fairly well and CSS enough to get my introuble and 
 I know have this burning desire to be part of the thousands who've taught themselves to code and gone to gain work as a freelancer or at a tech company. What lies instore for me is unkown but what I do know is that I want to be someone **who can code.** 
 
 ## The things I learned this project. 
+
